@@ -1,0 +1,1 @@
+Developed three machine learning projects covering diverse aspects of data analysis, model training, and evaluation. Comprehensive classifier/regressor development projects with extensive experimentation, including model exploration, preprocessing, hyperparameter tuning, and evaluation metrics.
